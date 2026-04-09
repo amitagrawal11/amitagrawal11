@@ -35,6 +35,11 @@
 
 ### 🤖 AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-blue?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-purple?style=for-the-badge)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -56,6 +61,29 @@
 ![Design Tokens](https://img.shields.io/badge/Design_Tokens-yellow?style=for-the-badge)
 ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-purple?style=for-the-badge)
 
+### 📊 Monitoring & Code Quality
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
+![FullStory](https://img.shields.io/badge/FullStory-FF6D00?style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+
+### 🗄 Database & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## 🔐 Security & Code Quality
+![IAST](https://img.shields.io/badge/IAST-Static%20Analysis-blue?style=for-the-badge)
+![DAST](https://img.shields.io/badge/DAST-Dynamic%20Testing-orange?style=for-the-badge)
+![SAST](https://img.shields.io/badge/SAST-Secure%20Code-green?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-Practices-red?style=for-the-badge)
 ---
 
 ## 🏆 Selected Impact
