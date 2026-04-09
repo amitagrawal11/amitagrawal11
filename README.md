@@ -7,8 +7,6 @@ I specialize in turning **ambiguous business problems into production-ready syst
 
 Currently working in fintech at scale. Actively exploring **Forward Deployed / AI Engineering roles across EU, UK, and USA (remote or relocation).**
 
----
-
 ## 🚀 What I Do
 
 **Forward Deployed Engineering**  
@@ -27,7 +25,6 @@ Currently working in fintech at scale. Actively exploring **Forward Deployed / A
 → React · Angular · Next.js · Node.js · TypeScript · JavaScript
 → APIs, system design, and production deployments  
 
----
 
 ## 🏆 Selected Impact
 
@@ -37,7 +34,6 @@ Currently working in fintech at scale. Actively exploring **Forward Deployed / A
 - 🌍 Worked with international stakeholders (UK/Europe clients)  
 - 🧠 Early adopter of **AI-assisted development workflows**  
 
----
 
 ## 🧠 AI + Forward Deployed Angle
 
@@ -46,7 +42,6 @@ Currently working in fintech at scale. Actively exploring **Forward Deployed / A
 - Strong ability to operate in **0→1 ambiguous environments**  
 - Bridging **business ↔ engineering ↔ product**  
 
----
 
 ## 🛠 Tech Stack
 
@@ -65,7 +60,6 @@ LLMs · AI Dev Tools · Automation
 **DevOps / Tools**  
 Git · Docker · CI/CD · Webpack · Vite  
 
----
 
 ## 📂 Case Studies / Work (Add Links)
 
@@ -73,7 +67,6 @@ Git · Docker · CI/CD · Webpack · Vite
 - 🔹 Scalable frontend architecture (add link)  
 - 🔹 High-performance fintech UI (add link)  
 
----
 
 ## 📈 What I’m Focused On
 
@@ -82,7 +75,6 @@ Git · Docker · CI/CD · Webpack · Vite
 - High-impact roles with ownership and fast execution  
 - Opportunities in EU / UK / USA markets  
 
----
 
 ## 📜 Experience Snapshot
 
@@ -91,14 +83,12 @@ Git · Docker · CI/CD · Webpack · Vite
 - Strong system design + architecture mindset  
 - Experience across enterprise + product environments  
 
----
 
 ## 📫 Contact
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/amitagrawal11/]    
 - 📧 Email: [amit.agrawal11@outlook.com]  
 
----
 
 ## 💼 Open To
 
@@ -106,7 +96,6 @@ Git · Docker · CI/CD · Webpack · Vite
 
 Remote / Relocation (EU · UK · USA)
 
----
 
 ## ⚡ Why Me
 
@@ -114,6 +103,5 @@ Remote / Relocation (EU · UK · USA)
 - I can operate in ambiguity and ship fast  
 - I combine **engineering depth + product thinking + execution**
 
----
 
 ⭐️ Open to collaborations, consulting, and high-impact roles.
