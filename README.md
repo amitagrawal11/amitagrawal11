@@ -1,107 +1,99 @@
 # Amit Agrawal 👋  
-AI-Focused Frontend Architect · Forward Deployed Engineer · Fintech  
+**AI-Focused Frontend Architect · Forward Deployed Engineer · Fintech**
 
-Ex-Frontend Architect with 13+ years of experience building and scaling high-performance applications in fintech and enterprise environments.
+> I turn ambiguous business problems into production-ready systems.
 
-I specialize in turning **ambiguous business problems into production-ready systems** — combining frontend architecture, full-stack execution, and emerging AI capabilities.
 
-Currently working in fintech at scale. Actively exploring **Forward Deployed / AI Engineering roles across EU, UK, and USA (remote or relocation).**
+## 🚀 About Me
 
-## 🚀 What I Do
+- 12+ years building scalable frontend & full-stack systems  
+- Currently in **fintech**, working on high-performance applications  
+- Strong focus on **system design, architecture, and real-world impact**  
+- Experience working with **UK / EU stakeholders**  
+- Exploring **AI + product engineering + forward deployed roles**
+
+
+## 🧠 What I Do
 
 **Forward Deployed Engineering**  
 → Work directly with stakeholders to define, prototype, and ship solutions  
-→ Translate unclear business needs into working systems fast  
 
 **AI + Product Engineering**  
-→ Build AI-assisted workflows, internal tools, and automation systems  
-→ Integrate LLM APIs into real-world applications  
+→ Build AI-assisted workflows and integrate LLMs into real systems  
 
-**Frontend Architecture at Scale**  
-→ Design systems, micro-frontends, performance optimization  
-→ Lead large codebases with maintainability and scalability  
+**Frontend Architecture**  
+→ Scalable systems, performance optimization, design systems  
 
 **Full Stack Execution**  
-→ React · Angular · Next.js · Node.js · TypeScript · JavaScript
-→ APIs, system design, and production deployments  
-
-
-## 🏆 Selected Impact
-
-- 🏦 Built and scaled **fintech applications** handling complex data workflows  
-- ⚡ Improved performance and developer productivity across large codebases  
-- 👥 Led frontend architecture and mentored engineering teams  
-- 🌍 Worked with international stakeholders (UK/Europe clients)  
-- 🧠 Early adopter of **AI-assisted development workflows**  
-
-
-## 🧠 AI + Forward Deployed Angle
-
-- Rapid prototyping of AI-powered features  
-- Workflow automation using APIs + tooling  
-- Strong ability to operate in **0→1 ambiguous environments**  
-- Bridging **business ↔ engineering ↔ product**  
+→ React · Next.js · Node.js · TypeScript  
 
 
 ## 🛠 Tech Stack
 
-**Core**  
-React · Next.js · TypeScript · JavaScript  
+**AI**  
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**  
-Node.js · REST APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Architecture**  
-Micro-frontends · System Design · Performance Optimization  
-
-**AI / Tooling**  
-LLMs · AI Dev Tools · Automation  
-
-**DevOps / Tools**  
-Git · Docker · CI/CD · Webpack · Vite  
+**Tools / Automation**  
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📂 Case Studies / Work (Add Links)
+## 🏆 Selected Impact
 
-- 🔹 AI-assisted workflow / automation system (add link)  
-- 🔹 Scalable frontend architecture (add link)  
-- 🔹 High-performance fintech UI (add link)  
+- 🏦 Built and scaled **fintech systems** with complex data workflows  
+- ⚡ Improved performance and maintainability of large-scale apps  
+- 👥 Led frontend architecture and mentored teams  
+- 🌍 Delivered solutions for **international clients (UK/EU)**  
+- 🧠 Early adopter of **AI-assisted engineering workflows**
 
 
-## 📈 What I’m Focused On
+## 📂 Featured Work
 
+- 🔹 **AI Workflow System** — LLM-powered automation (add link)  
+- 🔹 **Scalable Frontend Architecture** — enterprise-grade design (add link)  
+- 🔹 **High-Performance UI** — optimized fintech dashboards (add link)  
+
+
+## 📈 Current Focus
+
+- AI + Product Engineering  
 - Forward Deployed Engineering roles  
-- AI + Product Engineering intersection  
-- High-impact roles with ownership and fast execution  
-- Opportunities in EU / UK / USA markets  
+- Building scalable systems with real business impact  
+- Opportunities in **EU / UK / USA (Remote / Relocation)**  
 
 
 ## 📜 Experience Snapshot
 
-- Senior Software Engineer → Fintech (current)  
-- 13+ years in frontend & full-stack development  
-- Strong system design + architecture mindset  
-- Experience across enterprise + product environments  
+- Senior Software Engineer — Fintech (Current)  
+- 12+ years across frontend & full-stack engineering  
+- Strong architecture + system design mindset  
 
 
-## 📫 Contact
+## 📫 Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/amitagrawal11/]    
-- 📧 Email: [amit.agrawal11@outlook.com]  
+- 💼 LinkedIn: [Add Link]  
+- 🌐 Portfolio: [Add Link]  
+- 📧 Email: [Add Email]  
 
 
 ## 💼 Open To
 
 **Forward Deployed Engineer · AI Engineer · Frontend Architect · Senior Full Stack Engineer**
 
-Remote / Relocation (EU · UK · USA)
+
+## ⚡ Philosophy
+
+> Build fast. Solve real problems. Focus on impact over complexity.
 
 
-## ⚡ Why Me
-
-- I don’t just build features — I solve business problems  
-- I can operate in ambiguity and ship fast  
-- I combine **engineering depth + product thinking + execution**
-
-
-⭐️ Open to collaborations, consulting, and high-impact roles.
+⭐️ If this resonates, let’s connect.
