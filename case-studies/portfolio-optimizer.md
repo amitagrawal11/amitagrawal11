@@ -1,4 +1,4 @@
-### 🧭 Rapid Delivery System (Forward Deployed Engineering)
+### 🧭 Portfolio Optimizer
 
 **Problem**  
 Business stakeholders needed a portfolio optimization tool within an aggressive deadline (~1 month), with evolving requirements.
