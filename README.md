@@ -19,16 +19,13 @@
 
 ## 🧠 What I Do
 
-**Forward Deployed Engineering**  
-→ Work directly with stakeholders to define, prototype, and ship solutions  
-
 **AI + Product Engineering**  
 → Build AI-assisted workflows and integrate LLMs into real systems  
 
 **Frontend Architecture**  
 → Scalable systems, micro-frontends, design systems, performance optimization  
 
-**Full Stack Execution**  
+**MERN Stack Execution**  
 → React · Next.js · Angular · Node.js · TypeScript  
 
 ---
