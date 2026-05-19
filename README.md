@@ -1,7 +1,9 @@
-# Amit Agrawal 👋  
-**AI-Focused Frontend Architect · Forward Deployed Engineer · Fintech**
+# Amit Agrawal 👋
+**Frontend Architect · AI Frontend Engineering · FinTech**
 
-> I turn ambiguous business problems into scalable, production-ready systems.
+> Turning complex frontend problems into measurable business impact
+> $30K+ in annual costs eliminated through AI-augmented engineering, in partnership with senior leadership
+> Shipping FinTech MVPs in 29 days
 
 ---
 
