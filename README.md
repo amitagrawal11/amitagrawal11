@@ -102,9 +102,10 @@
 
 > Real-world systems I’ve designed and shipped
 
+- 🧭 [Reviso Notes](./case-studies/reviso-notes.md)  
 - 🤖 [AI-Powered Loan Evaluation Assistant](./case-studies/ai-loan-assistant.md)  
 - 📊 [High-Density Financial Data Platform](./case-studies/data-platform.md)  
-- 🧭 [Forward Deployed Delivery System](./case-studies/forward-deployed.md)  
+- 🧭 [Forward Deployed Delivery System](./case-studies/forward-deployed.md)
 
 ---
 
