@@ -9,101 +9,50 @@
 ## 🏆 Highlights
 
 - 💰 Saved **$30K+ annually** by replacing AgGrid Enterprise with an in-house enterprise grid solution
-- 🚀 Reduced deployment preparation from **2 hours → under 10 minutes** using Claude Code, MCP, GitLab & CloudBees
+- 🚀 Reduced deployment preparation from **2 hours → under 10 minutes** using **Claude Code, MCP, GitLab, and CloudBees**
 - 👥 Leading a global UI team of **6–8 engineers**
 - 🎯 Interviewed **40+ engineers** and hired **11+**
 - 🏗 Architected enterprise Portfolio Management platform for institutional asset managers
 
 ---
 
-## 👋 About Me
-
-- 🏗 Frontend Architecture
-- 👥 Engineering Leadership
-- 🤖 AI-Augmented Engineering
-- ⚙️ Platform Engineering
-- 🚀 Developer Productivity
-
----
-
-## 💡 What I Build
+## 🛠 Core Tech Stack
 
 ### 🏗 Frontend Architecture
-- Enterprise React
-- Next.js
-- React Server Components
-- Scalable UI Systems
-- Design Systems
-- Accessibility (WCAG)
-- Web Performance
-- Performance Engineering
-
-### 🤖 AI-Augmented Engineering
-- AI Assisted Development
-- LLM Workflows
-- Claude Code
-- Cursor
-- MCP
-- Engineering Productivity
+React • Next.js • TypeScript • JavaScript • React Server Components • Redux Toolkit • RTK Query • Angular • HTML5 • CSS3
 
 ### ⚙️ Platform Engineering
-- Monorepo (Nx / Turborepo)
-- CI/CD
-- Docker
-- Kubernetes
-- Vercel
-- Edge Runtime
+Monorepo • Nx • Turborepo • CI/CD • Docker • Kubernetes • Vercel • Edge Runtime • Storybook
+
+### 🤖 AI-Augmented Engineering
+Claude Code • Cursor • MCP • LLM Workflows • AI Assisted Development • Engineering Productivity
+
+### 📈 Engineering Excellence
+Design Systems • Accessibility • Web Performance • Performance Engineering • Feature Flags • Architecture Decisions • Technical Leadership
 
 ### 📊 Observability & Cloud
-- OpenTelemetry
-- Datadog
-- AWS
-- CloudFront
-- CloudWatch
-- OpenSearch
-- Sentry
-- Feature Flags
-- LaunchDarkly
-- Terraform (Exposure)
+AWS • CloudFront • OpenTelemetry • Datadog • CloudWatch • Sentry • OpenSearch • GraphQL • LaunchDarkly
 
-### ⚡ Data Layer
-- GraphQL
-- RTK Query
-- TanStack Query
+### 🧪 Quality & Security
+Playwright • Cypress • Vitest • Jest • SonarQube • Checkmarx • OWASP • Secure Coding
 
 ---
 
-## 🛠 Tech Stack
+## 📘 Featured Engineering Case Studies
 
-> Keep your existing Shields.io badges here, but group them under:
->
-> - 🏗 Architecture
-> - ⚛️ Frontend
-> - 🤖 AI
-> - 🧪 Quality Engineering
-> - ☁️ Cloud & Infrastructure
-> - 📊 Observability
-> - 🗄️ Data
-> - 🔐 Security
+### 💰 [Data Grid](./case-studies/data-grid.md)
+Replacing AgGrid Enterprise with an in-house enterprise grid solution.
+
+**Impact:** Saved **$30K+ annually**  
+**Focus:** Grid Architecture • Performance • Developer Experience
 
 ---
 
-## 🏆 Selected Impact
+### 📝 [Reviso Notes PWA](./case-studies/reviso-notes.md)
+A privacy-friendly, offline-first Markdown notes application for developers and knowledge workers.
 
-- 🏦 Built and scaled enterprise fintech platforms handling complex investment workflows
-- ⚡ Improved performance, accessibility, and maintainability of large-scale React applications
-- 👥 Led frontend architecture, engineering standards, and mentoring across global teams
-- 🌍 Delivered enterprise solutions for UK and European clients
-- 🤖 Early adopter of AI-Augmented Engineering to improve developer productivity
-
----
-
-## 📘 Flagship Case Studies
-
-- 💰 Replacing AgGrid Enterprise (CWAN Grid) — Saving $30K+ annually
-- 🤖 AI-Augmented Engineering — Deployment preparation: 2 hours → under 10 minutes
-- 🏗 Enterprise Portfolio Management Platform — Next.js App Router & React Server Components
-- 📈 Scaling Frontend Architecture — Design Systems, Performance & Engineering Excellence
+**Live Demo:** https://reviso.pages.dev  
+**Focus:** PWA • Markdown • Offline Support • Mermaid Diagrams • Live Preview
 
 ---
 
@@ -118,23 +67,22 @@
 
 ## 💼 Open To
 
-- 🏗 Frontend Architect
-- 🚀 Lead Frontend Engineer
-- ⭐ Staff Engineer
-- 👥 Engineering Manager
-- 👑 Principal Frontend Engineer
+- Frontend Architect
+- Lead Frontend Engineer
+- Staff Engineer
+- Principal Frontend Engineer
+- Engineering Manager
 
-**Remote • Hybrid • Relocation (Europe • UK)**
+**Remote • Hybrid • Relocation — Europe / UK**
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/amitagrawal11
-- Email: amit.agrawal11@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/amitagrawal11/) • [Email](mailto:amit.agrawal11@hotmail.com)
 
 ---
 
 ## ⚡ Philosophy
 
-> AI won't replace exceptional engineers—but exceptional engineers who embrace AI will build better products, faster.
+> AI won't replace exceptional engineers — but exceptional engineers who embrace AI will build better products, faster.
