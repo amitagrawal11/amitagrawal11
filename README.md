@@ -1,142 +1,140 @@
 # Amit Agrawal 👋
-**Frontend Architect · AI Frontend Engineering · FinTech**
 
-> Turning complex frontend problems into measurable business impact
-> $30K+ in annual costs eliminated through AI-augmented engineering, in partnership with senior leadership
-> Shipping FinTech MVPs in 29 days
+## Frontend Architect • Engineering Leader • AI-Augmented Engineering
 
----
-
-## 🚀 About Me
-
-- 13+ years building **enterprise-grade frontend & full-stack systems**  
-- Currently in **fintech**, solving complex data & performance challenges  
-- Strong focus on **architecture, system design, and business impact**  
-- Experience working with **UK / EU stakeholders**  
-- Exploring **AI + Forward Deployed Engineering roles (EU / UK / USA)**  
+> Building scalable enterprise platforms that improve developer productivity, engineering quality, and business outcomes.
 
 ---
 
-## 🧠 What I Do
+## 🏆 Highlights
 
-**AI + Product Engineering**  
-→ Build AI-assisted workflows and integrate LLMs into real systems  
+- 💰 Saved **$30K+ annually** by replacing AgGrid Enterprise with an in-house enterprise grid solution
+- 🚀 Reduced deployment preparation from **2 hours → under 10 minutes** using Claude Code, MCP, GitLab & CloudBees
+- 👥 Leading a global UI team of **6–8 engineers**
+- 🎯 Interviewed **40+ engineers** and hired **11+**
+- 🏗 Architected enterprise Portfolio Management platform for institutional asset managers
 
-**Frontend Architecture**  
-→ Scalable systems, micro-frontends, design systems, performance optimization  
+---
 
-**MERN Stack Execution**  
-→ React · Next.js · Angular · Node.js · TypeScript  
+## 👋 About Me
+
+- 🏗 Frontend Architecture
+- 👥 Engineering Leadership
+- 🤖 AI-Augmented Engineering
+- ⚙️ Platform Engineering
+- 🚀 Developer Productivity
+
+---
+
+## 💡 What I Build
+
+### 🏗 Frontend Architecture
+- Enterprise React
+- Next.js
+- React Server Components
+- Scalable UI Systems
+- Design Systems
+- Accessibility (WCAG)
+- Web Performance
+- Performance Engineering
+
+### 🤖 AI-Augmented Engineering
+- AI Assisted Development
+- LLM Workflows
+- Claude Code
+- Cursor
+- MCP
+- Engineering Productivity
+
+### ⚙️ Platform Engineering
+- Monorepo (Nx / Turborepo)
+- CI/CD
+- Docker
+- Kubernetes
+- Vercel
+- Edge Runtime
+
+### 📊 Observability & Cloud
+- OpenTelemetry
+- Datadog
+- AWS
+- CloudFront
+- CloudWatch
+- OpenSearch
+- Sentry
+- Feature Flags
+- LaunchDarkly
+- Terraform (Exposure)
+
+### ⚡ Data Layer
+- GraphQL
+- RTK Query
+- TanStack Query
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🤖 AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-blue?style=for-the-badge)
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-purple?style=for-the-badge)
+> Keep your existing Shields.io badges here, but group them under:
+>
+> - 🏗 Architecture
+> - ⚛️ Frontend
+> - 🤖 AI
+> - 🧪 Quality Engineering
+> - ☁️ Cloud & Infrastructure
+> - 📊 Observability
+> - 🗄️ Data
+> - 🔐 Security
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ State & UI
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![AG Grid](https://img.shields.io/badge/AG_Grid-FF6C37?style=for-the-badge)
-
-### 🧪 Testing
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### ⚡ Architecture
-![Web Performance](https://img.shields.io/badge/Web_Performance-blue?style=for-the-badge)
-![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-blue?style=for-the-badge)
-![Design Tokens](https://img.shields.io/badge/Design_Tokens-yellow?style=for-the-badge)
-![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-purple?style=for-the-badge)
-
-### 📊 Monitoring & Code Quality
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
-![FullStory](https://img.shields.io/badge/FullStory-FF6D00?style=for-the-badge)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
-
-### 🗄 Database & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-## 🔐 Security & Code Quality
-![IAST](https://img.shields.io/badge/IAST-Static%20Analysis-blue?style=for-the-badge)
-![DAST](https://img.shields.io/badge/DAST-Dynamic%20Testing-orange?style=for-the-badge)
-![SAST](https://img.shields.io/badge/SAST-Secure%20Code-green?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge)
-![Secure Coding](https://img.shields.io/badge/Secure_Coding-Practices-red?style=for-the-badge)
 ---
 
 ## 🏆 Selected Impact
 
-- 🏦 Built and scaled **fintech systems** handling complex data workflows  
-- ⚡ Improved performance and maintainability of large-scale apps  
-- 👥 Led frontend architecture and mentored teams  
-- 🌍 Delivered solutions for **UK / EU clients**  
-- 🧠 Early adopter of **AI-assisted engineering workflows**  
+- 🏦 Built and scaled enterprise fintech platforms handling complex investment workflows
+- ⚡ Improved performance, accessibility, and maintainability of large-scale React applications
+- 👥 Led frontend architecture, engineering standards, and mentoring across global teams
+- 🌍 Delivered enterprise solutions for UK and European clients
+- 🤖 Early adopter of AI-Augmented Engineering to improve developer productivity
 
 ---
 
-## 🧠 Case Studies (Deep Dive)
+## 📘 Flagship Case Studies
 
-> Real-world systems I’ve designed and shipped
-
-- 🧭 [Reviso Notes](./case-studies/reviso-notes.md)  
-- 🤖 [AI-Powered Loan Evaluation Assistant](./case-studies/ai-loan-assistant.md)  
-- 📊 [High-Density Financial Data Platform](./case-studies/data-platform.md)  
-- 🧭 [Forward Deployed Delivery System](./case-studies/forward-deployed.md)
+- 💰 Replacing AgGrid Enterprise (CWAN Grid) — Saving $30K+ annually
+- 🤖 AI-Augmented Engineering — Deployment preparation: 2 hours → under 10 minutes
+- 🏗 Enterprise Portfolio Management Platform — Next.js App Router & React Server Components
+- 📈 Scaling Frontend Architecture — Design Systems, Performance & Engineering Excellence
 
 ---
 
 ## 🏢 Career Timeline
 
-```
-
-●──────────────────●───────────●───────────────────●────────────────●──────────────●---------->  
-2013               2016        2018                2020             2021           2023  
-
+```text
+2013      2016      2018      2020      2021      2023
 🚄 JK Technosoft → 🏗 Tavant → 💳 Pitney Bowes → ⚡ Scopeworker → 🧠 Precisely → 🚀 Clearwater
 ```
 
 ---
 
-## 📫 Connect
+## 💼 Open To
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit_Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitagrawal11/)
-[![Email](https://img.shields.io/badge/Email-amit.agrawal11@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit.agrawal11@hotmail.com)
+- 🏗 Frontend Architect
+- 🚀 Lead Frontend Engineer
+- ⭐ Staff Engineer
+- 👥 Engineering Manager
+- 👑 Principal Frontend Engineer
+
+**Remote • Hybrid • Relocation (Europe • UK)**
 
 ---
 
-## 💼 Open To
+## 📫 Connect
 
-**Forward Deployed Engineer · AI Engineer · Frontend Architect · Senior Full Stack Engineer**  
-
-Remote / Relocation (EU · UK · USA)
+- LinkedIn: https://www.linkedin.com/in/amitagrawal11
+- Email: amit.agrawal11@hotmail.com
 
 ---
 
 ## ⚡ Philosophy
 
-> Build fast. Solve real problems. Optimize for impact.
-
----
-
-⭐️ Open to collaborations, consulting, and high-impact roles.
+> AI won't replace exceptional engineers—but exceptional engineers who embrace AI will build better products, faster.
