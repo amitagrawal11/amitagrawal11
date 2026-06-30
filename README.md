@@ -2,93 +2,104 @@
 
 ## Frontend Architect • Engineering Leader • AI-Augmented Engineering
 
-> Building scalable enterprise platforms that improve developer productivity, engineering quality, and business outcomes.
+> Building enterprise platforms, developer tools, and AI-powered engineering workflows that improve developer productivity, software quality, and business outcomes.
 
 ---
 
-## 🏆 Highlights
+## 👨‍💻 About Me
 
-- 💰 Saved **$30K+ annually** by replacing AgGrid Enterprise with an in-house enterprise grid solution
-- 🚀 Reduced deployment preparation from **2 hours → under 10 minutes** using **Claude Code, MCP, GitLab, and CloudBees**
-- 👥 Leading a global UI team of **6–8 engineers**
-- 🎯 Interviewed **40+ engineers** and hired **11+**
-- 🏗 Architected enterprise Portfolio Management platform for institutional asset managers
+I'm a Frontend Architect with **13+ years** of experience delivering enterprise software across **FinTech, Enterprise SaaS, Travel, Payments, and E-commerce**.
+
+I specialize in **Platform Engineering**, **Performance Engineering**, **Enterprise React**, and **AI-Augmented Engineering**, combining technical leadership with hands-on architecture to build scalable products and high-performing engineering teams.
 
 ---
 
-## 🛠 Core Tech Stack
+## 🏆 Career Highlights
 
-### 🏗 Frontend Architecture
-React • Next.js • TypeScript • JavaScript • React Server Components • Redux Toolkit • RTK Query • Angular • HTML5 • CSS3
-
-### ⚙️ Platform Engineering
-Monorepo • Nx • Turborepo • CI/CD • Docker • Kubernetes • Vercel • Edge Runtime • Storybook
-
-### 🤖 AI-Augmented Engineering
-Claude Code • Cursor • MCP • LLM Workflows • AI Assisted Development • Engineering Productivity
-
-### 📈 Engineering Excellence
-Design Systems • Accessibility • Web Performance • Performance Engineering • Feature Flags • Architecture Decisions • Technical Leadership
-
-### 📊 Observability & Cloud
-AWS • CloudFront • OpenTelemetry • Datadog • CloudWatch • Sentry • OpenSearch • GraphQL • LaunchDarkly
-
-### 🧪 Quality & Security
-Playwright • Cypress • Vitest • Jest • SonarQube • Checkmarx • OWASP • Secure Coding
+- Saved **$30K+ annually** by replacing a commercial enterprise grid with an in-house platform.
+- Reduced deployment preparation from **2 hours to under 10 minutes** using AI-assisted engineering workflows.
+- Led frontend architecture for **4 enterprise financial products** serving institutional asset managers.
+- Built and mentored a global UI team of **6–8 engineers**.
+- Interviewed **40+ engineers** and hired **11+** across multiple engineering teams.
 
 ---
 
-## 📘 Featured Engineering Case Studies
+## 🛠 Expertise
 
-### 💰 [Data Grid](./case-studies/data-grid.md)
-Replacing AgGrid Enterprise with an in-house enterprise grid solution.
+### Frontend & Platform Engineering
 
-**Impact:** Saved **$30K+ annually**  
-**Focus:** Grid Architecture • Performance • Developer Experience
+React • Next.js • TypeScript • JavaScript • Angular • React Server Components • GraphQL • Redux Toolkit • RTK Query • HTML5 • CSS3
 
+### Cloud, DevOps & Observability
 
-### 📝 [Reviso Notes PWA](./case-studies/reviso-notes.md)
-A privacy-friendly, offline-first Markdown notes application for developers and knowledge workers.
+AWS • CloudFront • Docker • Kubernetes • OpenTelemetry • CloudWatch • Datadog • Sentry • LaunchDarkly • Vercel • CI/CD
 
-**Live Demo:** https://reviso.pages.dev  
-**Focus:** PWA • Markdown • Offline Support • Mermaid Diagrams • Live Preview
+### AI-Augmented Engineering
 
+Claude Code • Cursor • MCP • LLM Workflows • AI-Assisted Development • Developer Productivity
+
+### Quality & Engineering Excellence
+
+Playwright • Vitest • Cypress • Jest • Storybook • Design Systems • Accessibility • Performance Engineering • Secure Coding • OWASP • SonarQube • Checkmarx
+
+---
+
+## 💼 Professional Work
+
+### 💰 [Enterprise Data Grid](./case-studies/data-grid.md)
+
+Designed an enterprise data platform that replaced a third-party grid library across multiple products.
+
+> **Impact:** Saved **$30K+ annually**
+
+**Tech:** React • TypeScript • Platform Engineering • Performance
+
+---
+
+## 🚀 Personal Products
+
+### 📝 [Reviso – Offline Knowledge Workspace](./case-studies/reviso-notes.md)
+
+Offline-first Markdown workspace designed and developed from scratch for developers and knowledge workers.
+
+🌐 **Live Demo:** https://reviso.pages.dev
+
+**Tech:** React • Supabase • PWA • Markdown • Mermaid
+
+---
 
 ### ❤️ [Soulmate – Social & Matrimony Platform](./case-studies/soulmate.md)
 
-A cross-platform mobile application built from scratch to solve stale profiles, nearby discovery, intelligent matchmaking, and real-world interactions.
+Cross-platform mobile application focused on intelligent matchmaking, nearby discovery, and real-world social interactions.
 
-**Focus:** Flutter • Firebase • Product Design • Mobile Architecture • Google Maps • Real-time Chat
-
-## 🏢 Career Timeline
+**Tech:** Flutter • Firebase • Google Maps • Product Design • Mobile Architecture
 
 ---
 
+## 🏢 Career Journey
+
 ```text
 2013      2016      2018      2020      2021      2023
-🚄 JK Technosoft → 🏗 Tavant → 💳 Pitney Bowes → ⚡ Scopeworker → 🧠 Precisely → 🚀 Clearwater
+🚄 JK Technosoft → 🏗 Tavant → 💳 Pitney Bowes → ⚡ Scopeworker → 🧠 Precisely → 🚀 Clearwater Analytics
 ```
 
 ---
 
 ## 💼 Open To
 
-- Frontend Architect
-- Lead Frontend Engineer
-- Staff Engineer
-- Principal Frontend Engineer
-- Engineering Manager
+Frontend Architect • Staff Engineer • Principal Frontend Engineer • Engineering Manager
 
-**Remote • Hybrid • Relocation — Europe / UK**
+📍 Remote • Hybrid • Relocation (Europe / UK)
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/amitagrawal11/) • [Email](mailto:amit.agrawal11@hotmail.com)
+- 💼 LinkedIn: linkedin.com/in/amitagrawal11
+- 📧 Email: amit.agrawal11@hotmail.com
 
 ---
 
 ## ⚡ Philosophy
 
-> AI won't replace exceptional engineers — but exceptional engineers who embrace AI will build better products, faster.
+> AI won't replace exceptional engineers—but exceptional engineers who embrace AI will build better products, faster.
