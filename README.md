@@ -46,7 +46,6 @@ Replacing AgGrid Enterprise with an in-house enterprise grid solution.
 **Impact:** Saved **$30K+ annually**  
 **Focus:** Grid Architecture • Performance • Developer Experience
 
----
 
 ### 📝 [Reviso Notes PWA](./case-studies/reviso-notes.md)
 A privacy-friendly, offline-first Markdown notes application for developers and knowledge workers.
@@ -54,9 +53,16 @@ A privacy-friendly, offline-first Markdown notes application for developers and 
 **Live Demo:** https://reviso.pages.dev  
 **Focus:** PWA • Markdown • Offline Support • Mermaid Diagrams • Live Preview
 
----
+
+### ❤️ [Soulmate – Social & Matrimony Platform](./case-studies/soulmate.md)
+
+A cross-platform mobile application built from scratch to solve stale profiles, nearby discovery, intelligent matchmaking, and real-world interactions.
+
+**Focus:** Flutter • Firebase • Product Design • Mobile Architecture • Google Maps • Real-time Chat
 
 ## 🏢 Career Timeline
+
+---
 
 ```text
 2013      2016      2018      2020      2021      2023
