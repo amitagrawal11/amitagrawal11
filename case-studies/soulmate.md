@@ -17,7 +17,7 @@ Instead of building another dating app, I designed **Soulmate**—a cross-platfo
 - 🤝 **Smart Match Score** — Compared two profiles, calculated compatibility, and explained why users matched (or didn't).
 - ☕ **Event & Café Planner** — Allowed matched users to schedule meetings through an invitation and approval workflow.
 - 💬 **Real-time Chat** — Secure one-to-one messaging powered by Firebase.
-- 👆 **Swipe Discovery** — Modern swipe-based profile exploration for faster browsing.
+- 👆 **Swipe Discovery** — Modern swipe-based profile exploration for faster browsing. 
 
 ## My Role
 
